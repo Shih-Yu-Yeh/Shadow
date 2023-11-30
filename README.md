@@ -2,6 +2,8 @@
 Based on advanced language model technology, an AI administrator has been developed that can manage Redmine completely autonomously. It can automatically handle various requirements raised by users, while detecting system status, daily backup issues, and automatically repairing Redmine exceptions.
 
 
+![image](https://github.com/Shih-Yu-Yeh/Shadow/assets/126072740/9eba6b29-808e-4c72-8520-e8dd4ed81d0c)
+
 
 Just imagine, once this project progresses, Shadow can perfectly and completely take over the Redmine system without human intervention. Then, it can be reasonably speculated that the following scenario will occur:
 
